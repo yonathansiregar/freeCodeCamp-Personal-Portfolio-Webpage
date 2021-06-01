@@ -1,0 +1,15 @@
+:root {
+    --main-white: #FFFFFF;
+    --main-red: #FF0000;
+    --main-blue: #0000FF;
+    --main-gray: #808080;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
